@@ -16,6 +16,3 @@ To deploy this smart contract:
 ## Usage
 
 Once deployed, users can call the `vote()` function to vote for their chosen candidate, and they can view vote counts using `getVotes()`.
-
-## License
-This project is licensed under the MIT License.
